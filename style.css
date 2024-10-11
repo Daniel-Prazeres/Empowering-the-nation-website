@@ -1,0 +1,36 @@
+#logo{
+    max-width: 5%;
+    height: 5%;
+}
+
+#homeImage{
+    padding-left: 5%;
+    max-width: 50%;
+    height: auto;
+}
+
+#sixMonthImage{
+    max-width: 50%;
+    height: auto;
+}
+
+#sixWeekImage{
+    max-width: 50%;
+    height: auto;
+}
+
+#contactImage{
+    max-width: 50%;
+    height: auto;
+}
+
+#paymentImage{
+    max-width: 50%;
+    height: 50%;
+}
+
+#linkBar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
